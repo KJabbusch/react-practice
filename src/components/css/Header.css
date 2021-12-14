@@ -1,0 +1,29 @@
+.Header-container {
+    display: flex;
+    background-color:red;
+    height: 100px;
+}
+
+.Navigation {
+    display: flex;
+    color: white;
+    width: 80%;
+    background-color: rgb(255, 75, 75);
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+.Searchbar-container {
+    display: flex;
+    width: 20%;
+    background-color: rgb(255, 174, 0);
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.Searchbar {
+    font-style: italic;
+}

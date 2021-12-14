@@ -1,0 +1,6 @@
+.Body-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color:blue;
+    height: 100px;
+}
